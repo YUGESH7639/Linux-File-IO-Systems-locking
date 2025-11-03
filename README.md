@@ -79,8 +79,8 @@ int main(int argc, char *argv[]) {
 ## OTPUT:
 
 
-![Alt text](../1.png)
 
+![Alt text](1.png)
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -159,8 +159,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Alt text](../2.png)
 
+![Alt text](2.png)
 
 
 # RESULT:
